@@ -51,7 +51,7 @@ section{
   height: 95vh; 
 }
 #Home{
-  background-image: url(photos/Untitled\ design.png);
+  background-image: url(photos/Untitled-design.png);
   background-size: cover; 
   background-position: center;
   display: flex;
@@ -144,7 +144,7 @@ section{
   text-shadow: 3px 3px 2px rgba(251, 155, 29, 0.38);
 }
 #About {
-  background-image: url(/photos/bg4.jpg);
+  background-image: url(photos/bg4.jpg);
   background-size: 90% 90%;
   background-position: center;
   background-repeat: no-repeat;
