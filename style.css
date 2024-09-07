@@ -51,7 +51,7 @@ section{
   height: 95vh; 
 }
 #Home{
-  background-image: url(/photos/Untitled\ design.png);
+  background-image: url(photos/Untitled\ design.png);
   background-size: cover; 
   background-position: center;
   display: flex;
